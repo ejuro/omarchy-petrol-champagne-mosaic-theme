@@ -1,0 +1,69 @@
+/* Petrol Champagne Mosaic — coordinated GTK 3 / GTK 4 colors. */
+@define-color window_bg_color #10262B;
+@define-color window_fg_color #E4DBBF;
+@define-color view_bg_color #10262B;
+@define-color view_fg_color #E4DBBF;
+@define-color headerbar_bg_color #0B1E23;
+@define-color headerbar_fg_color #E4DBBF;
+@define-color headerbar_backdrop_color #0B1E23;
+@define-color headerbar_border_color #3D5958;
+@define-color headerbar_shade_color rgba(0, 0, 0, 0.06);
+@define-color sidebar_bg_color #0B1E23;
+@define-color sidebar_fg_color #DCCDAA;
+@define-color sidebar_backdrop_color #0B1E23;
+@define-color sidebar_border_color #3D5958;
+@define-color sidebar_shade_color rgba(0, 0, 0, 0.06);
+@define-color secondary_sidebar_bg_color #0B1E23;
+@define-color secondary_sidebar_fg_color #DCCDAA;
+@define-color secondary_sidebar_backdrop_color #0B1E23;
+@define-color secondary_sidebar_border_color #3D5958;
+@define-color card_bg_color #10262B;
+@define-color card_fg_color #E4DBBF;
+@define-color card_shade_color rgba(0, 0, 0, 0.06);
+@define-color popover_bg_color #10262B;
+@define-color popover_fg_color #E4DBBF;
+@define-color popover_shade_color rgba(0, 0, 0, 0.10);
+@define-color dialog_bg_color #10262B;
+@define-color dialog_fg_color #E4DBBF;
+@define-color thumbnail_bg_color #0B1E23;
+@define-color thumbnail_fg_color #E4DBBF;
+@define-color accent_bg_color #DCCDAA;
+@define-color accent_fg_color #10262B;
+@define-color accent_color #DCCDAA;
+@define-color destructive_bg_color #D5A397;
+@define-color destructive_fg_color #10262B;
+@define-color destructive_color #D5A397;
+@define-color error_bg_color #D5A397;
+@define-color error_fg_color #10262B;
+@define-color error_color #D5A397;
+@define-color warning_bg_color #DCCDAA;
+@define-color warning_fg_color #10262B;
+@define-color warning_color #DCCDAA;
+@define-color success_bg_color #DCCDAA;
+@define-color success_fg_color #10262B;
+@define-color success_color #DCCDAA;
+@define-color borders #3D5958;
+@define-color unfocused_borders #3D5958;
+@define-color shade_color rgba(0, 0, 0, 0.08);
+@define-color theme_bg_color #10262B;
+@define-color theme_fg_color #E4DBBF;
+@define-color theme_base_color #10262B;
+@define-color theme_text_color #E4DBBF;
+@define-color theme_selected_bg_color #DCCDAA;
+@define-color theme_selected_fg_color #10262B;
+@define-color insensitive_bg_color #0B1E23;
+@define-color insensitive_fg_color #A7AB99;
+@define-color insensitive_base_color #0B1E23;
+@define-color theme_unfocused_bg_color #10262B;
+@define-color theme_unfocused_fg_color #A7AB99;
+@define-color theme_unfocused_base_color #10262B;
+@define-color theme_unfocused_text_color #A7AB99;
+@define-color theme_unfocused_selected_bg_color #354E4B;
+@define-color theme_unfocused_selected_fg_color #E4DBBF;
+@define-color link_color #DCCDAA;
+@define-color visited_link_color #A7AB99;
+
+selection { background-color: #354E4B; color: #F2E9D0; }
+button.suggested-action { background-color: #DCCDAA; color: #10262B; }
+button.suggested-action:hover { background-color: #E4DBBF; color: #10262B; }
+button.destructive-action { background-color: #D5A397; color: #10262B; }
